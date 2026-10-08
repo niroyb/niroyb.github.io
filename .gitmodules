@@ -1,0 +1,3 @@
+[submodule "projects/skeletonize"]
+	path = projects/skeletonize
+	url = https://github.com/niroyb/Skeletonize.git
